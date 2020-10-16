@@ -1,0 +1,5 @@
+a = input()
+n = int(a, 8)
+print(n)
+# n = int(input(), 8)
+# print(n)
